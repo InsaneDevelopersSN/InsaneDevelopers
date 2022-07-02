@@ -211,6 +211,14 @@
             <div class="row">
                 <div class="col-lg-12">
                     <form id="contactForm"  name="contactForm" novalidate="novalidate" action="https://formsubmit.co/fb43d009250518cceda3623c70483a8b" method="POST">
+                        
+                        <!--- honeypot -->
+
+                        <input type="text" name="_honeypot" style="display: none;">
+                        
+                        <!-- captcha-->
+                        <input type="hidden" name="_captcha" value="false">
+                        
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="form-group mb-3"><input class="form-control" type="text" id="name-1" placeholder="Your Name *" required=""><small class="form-text text-danger flex-grow-1 help-block lead"></small></div>
