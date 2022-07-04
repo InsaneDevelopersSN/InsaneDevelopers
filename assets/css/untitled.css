@@ -14,6 +14,6 @@ h4: hover {
 
 .portfolio-item:hover {
   background: #00cda6;
-  border-radius: 25px;
+  border-radius: 10px;
 }
 
