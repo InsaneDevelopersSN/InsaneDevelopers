@@ -1,0 +1,19 @@
+.img-fluid: hover {
+  color: yellow;
+}
+
+#portfolio .portfolio-item .portfolio-caption h4, #portfolio .portfolio-item .portfolio-caption .h4 {
+}
+
+h4: hover {
+  color: red;
+}
+
+.portfolio-link:hover {
+}
+
+.portfolio-item:hover {
+  background: #00cda6;
+  border-radius: 25px;
+}
+
