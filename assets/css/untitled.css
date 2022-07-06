@@ -17,3 +17,7 @@ h4: hover {
   border-radius: 10px;
 }
 
+
+.list-inline-items:hover {
+  background-color: green;
+}
